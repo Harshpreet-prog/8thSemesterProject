@@ -1,1 +1,1 @@
-# JobPredictionProject
+# 8th sem data science project
