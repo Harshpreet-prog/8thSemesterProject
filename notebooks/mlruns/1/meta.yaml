@@ -1,0 +1,4 @@
+artifact_location: file:///C:/Users/Harshpreet%20singh/JobPredictionProject/notebooks/mlruns/1
+experiment_id: '1'
+lifecycle_stage: active
+name: stackoverflow_single_model
